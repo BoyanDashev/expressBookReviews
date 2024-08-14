@@ -1,1 +1,1 @@
-# coding-project-template
+Project from the IBM-FULLSTACK DEVELOPER COURSE.
